@@ -4,6 +4,9 @@ Bir işe başlarken ilk adımı atmak genelde en zorudur. Burada açık kaynak b
 **NOT:** Burada kullandığım ve sizin oluşturduğunuz tüm içerikler Türkçe olacaktır.
 
 # Nasıl?
+Projede çeşitli klasörler var. Bu klasörlerde de çeşitli dosyalar var. Bulunduğunuz klasörün içeriğine göre bir dosya oluşturabilirsiniz. Örneğin [algoritmalar](algoritmalar) klasörünün altındaki farklı algoritmalara istediğiniz bir algoritmayı ekleyebilirsiniz. Algoritmanın daha önce başkası tarafından yazılmış olması veya aynı programlama dilinde yazılmış olması fark etmez! İstediğiniz kodu ekleyin! Kodun ilk satırına yorum olarak adınızı, soyadınızı ve paylaşmak istediğiniz başka bilgileri ekleyebilirsiniz.
+
+# Kolay Bir Örnek
 
 ## 1. Projeyi Çatallayın
 Sağ üstteki `Fork` (Çatalla) düğmesine tıklayarak projenin kendinize ait bir kopyasını oluşturun.

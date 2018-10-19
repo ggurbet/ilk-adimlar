@@ -6,10 +6,10 @@ Bir işe başlarken ilk adımı atmak genelde en zorudur. Burada açık kaynak b
 # Nasıl?
 
 ## 1. Projeyi Çatallayın
-Sağ üstteki "Fork" (Çatalla) düğmesine tıklayarak projenin kendinize ait bir kopyasını oluşturun.
+Sağ üstteki `Fork` (Çatalla) düğmesine tıklayarak projenin kendinize ait bir kopyasını oluşturun.
 
 ### 1.1. GitHub Web Sitesi Üzerinden
-Proje sayfanızdayken `KATKICILAR.md` dosyasına tıkladıktan sonra dosya içeriğinizin sağ üst kısmındaki kalem düğmesine tıklayarak istediğiniz değişikliği yapabilir ve sonrasında bunu yeni bir dal (branch) oluşturacak şekilde kaydedebilirsiniz. Dal adı olarak `adiniz-soyadiniz` kullanın, örneğin `gokhan-gurbetoglu`.
+Proje sayfanızdayken [KATKICILAR.md](KATKICILAR.md) dosyasına tıkladıktan sonra dosya içeriğinizin sağ üst kısmındaki kalem düğmesine tıklayarak istediğiniz değişikliği yapabilir ve sonrasında bunu yeni bir dal (branch) oluşturacak şekilde kaydedebilirsiniz. Dal adı olarak `adiniz-soyadiniz` kullanın, örneğin `gokhan-gurbetoglu`.
 
 ### 1.2. Kendi Bilgisayarınızdan
 
@@ -21,7 +21,7 @@ git config --global user.email "e-posta@adresiniz.com"
 ```
 
 #### 1.2.2. Projeyi Klonlayın
-Yeni oluşturduğunuz projeyi kendi bilgisayarınızda klonlayın. Bunun için proje sayfanızda sağ üstteki "`Clone or download`" (Klonla ya da indir) düğmesine tıklayın ve verilen adresi kopyalayın. Bunu adresin sağındaki kopyalama düğmesine tıklayarak da yapabilirsiniz.
+Yeni oluşturduğunuz projeyi kendi bilgisayarınızda klonlayın. Bunun için proje sayfanızda sağ üstteki `Clone or download` (Klonla ya da indir) düğmesine tıklayın ve verilen adresi kopyalayın. Bunu adresin sağındaki kopyalama düğmesine tıklayarak da yapabilirsiniz.
 
 Bilgisayarınızda uçbirime (terminal veya konsol da denebilir) girin ve şu komutla projenizi bilgisayarınıza klonlayın:
 ```
@@ -47,7 +47,7 @@ git checkout -b gokhan-gurbetoglu
 ```
 
 #### 1.2.4. Katkınızı Yapın (Commit)
-Artık hazırız! İlk katkımız için `KATKICILAR.md` dosyasının içine adınızı, soyadınızı, GitHub hesabınızı ve benzeri paylaşmak istediğiniz diğer bilgilerinizi dosyanın sonuna ekleyin ve kaydedin.
+Artık hazırız! İlk katkımız için [KATKICILAR.md](KATKICILAR.md) dosyasının içine adınızı, soyadınızı, GitHub hesabınızı ve benzeri paylaşmak istediğiniz diğer bilgilerinizi dosyanın sonuna ekleyin ve kaydedin.
 ```
 - [Adınız Soyadınız](https://github.com/kullanici-adiniz)
 ```
@@ -61,7 +61,7 @@ Değişiklikleriniz bittiğinde uçbirimden
 ```
 git add KATKICILAR.md
 ```
-komutunu vererek `KATKICILAR.md` dosyasını değişiklikleri kaydedilmek üzere bulunduğunuz dala ekleyin. Sonra uçbirimden:
+komutunu vererek [KATKICILAR.md](KATKICILAR.md) dosyasını değişiklikleri kaydedilmek üzere bulunduğunuz dala ekleyin. Sonra uçbirimden:
 ```
 git commit -m "Katkıcı-Adı'nı katkıcılar listesine ekle"
 ```
@@ -78,7 +78,7 @@ git push origin adiniz-soyadiniz
 girin. Burada `adiniz-soyadiniz` yerine önceden oluşturduğunuz dalın adını yazın. Değişiklikleriniz artık GitHub'da!
 
 ## 2. İncelenmesi için Değişiklikleri Gönderin
-Artık GitHub üzerinde proje sayfanıza girdiğinizde sağ üstte yeşil renkli bir "`Compare & pull request`" (Karşılaştır ve çekme isteği oluştur) düğmesi göreceksiniz. Bu düğmeye tıklayın, gerekli bilgileri girin ve "`Create pull request`" (Çekme isteği oluştur) düğmesine tıklayarak isteğinizi tamamlayın.
+Artık GitHub üzerinde proje sayfanıza girdiğinizde sağ üstte yeşil renkli bir `Compare & pull request` (Karşılaştır ve çekme isteği oluştur) düğmesi göreceksiniz. Bu düğmeye tıklayın, gerekli bilgileri girin ve `Create pull request` (Çekme isteği oluştur) düğmesine tıklayarak isteğinizi tamamlayın.
 
 ## 3. İncelemeniz Onaylandı!
 Yukarıdaki tüm işlemleri yaptıysanız ben de çekme isteğinizi inceleyip bu projeye eklenmesi için onay vereceğim. Tebrikler! İlk katkınızı yaptınız!

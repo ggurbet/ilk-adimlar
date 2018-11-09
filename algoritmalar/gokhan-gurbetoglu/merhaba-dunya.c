@@ -1,8 +1,7 @@
 /* Gökhan Gurbetoğlu
  * GitHub: https://github.com/ggurbet
  * Twitter: https://twitter.com/ggurbet
- * Programlama Dili: C
- */
+ * Programlama Dili: C */
 
 #include <stdio.h>
 

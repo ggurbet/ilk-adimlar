@@ -3,7 +3,7 @@
 // Twitter: https://twitter.com/ggurbet
 // Programlama Dili: Pascal
 
-program Hello;
+program MerhabaDunya;
 begin
   writeln ('Merhaba Dünya!');
 end.

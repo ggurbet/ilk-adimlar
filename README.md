@@ -10,6 +10,7 @@ Projede çeşitli klasörler var. Bu klasörlerde de çeşitli dosyalar var. Bul
 
 ## 1. Projeyi Çatallayın
 Sağ üstteki `Fork` (Çatalla) düğmesine tıklayarak projenin kendinize ait bir kopyasını oluşturun.
+![](/resimler/catalla-dugmesi.png)
 
 ### 1.1. GitHub Web Sitesi Üzerinden
 Proje sayfanızdayken [KATKICILAR.md](KATKICILAR.md) dosyasına tıkladıktan sonra dosya içeriğinizin sağ üst kısmındaki kalem düğmesine tıklayarak istediğiniz değişikliği yapabilir ve sonrasında bunu yeni bir dal (branch) oluşturacak şekilde kaydedebilirsiniz. Dal adı olarak `adiniz-soyadiniz` kullanın, örneğin `gokhan-gurbetoglu`.

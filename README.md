@@ -10,6 +10,7 @@ Projede çeşitli klasörler var. Bu klasörlerde de çeşitli dosyalar var. Bul
 
 ## 1. Projeyi Çatallayın
 Sağ üstteki `Fork` (Çatalla) düğmesine tıklayarak projenin kendinize ait bir kopyasını oluşturun.
+
 ![](/resimler/catalla-dugmesi.png)
 
 ### 1.1. GitHub Web Sitesi Üzerinden

@@ -8,5 +8,4 @@
 int main()
 {
     printf("Merhaba Dünya!");
-    return 0;
 }

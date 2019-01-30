@@ -8,5 +8,4 @@
 int main()
 {
     std::cout << "Merhaba Dünya!";
-    return 0;
 }

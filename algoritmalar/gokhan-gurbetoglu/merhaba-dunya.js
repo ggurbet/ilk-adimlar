@@ -3,4 +3,4 @@
  * Twitter: https://twitter.com/ggurbet
  * Programlama Dili: JavaScript */
 
-alert("Merhaba Dünya!");
+console.log("Merhaba Dünya!");

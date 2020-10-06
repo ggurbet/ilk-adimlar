@@ -1,6 +1,6 @@
 # Gökhan Gurbetoğlu
 # GitHub: https://github.com/ggurbet
 # Twitter: https://twitter.com/ggurbet
-# Programlama Dili: Python 3
+# Programlama Dili: Python
 
 print("Merhaba Dünya!")

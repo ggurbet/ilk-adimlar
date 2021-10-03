@@ -25,6 +25,8 @@ git config --global user.name "Adınız Soyadınız"
 git config --global user.email "e-posta@adresiniz.com"
 ```
 
+**Not:** Bu şekilde ayarlarınızı yaptığınızda bundan sonraki tüm Git çalışmalarınızda bu ayarlar kullanılacaktır. Bunun yerine her deponuz için ayrı ayrı tanımlama yapmak isterseniz `--global` anahtarını kaldırabilirsiniz.
+
 #### 1.2.2. Projeyi Klonlayın
 Yeni oluşturduğunuz projeyi kendi bilgisayarınızda klonlayın. Bunun için proje sayfanızda sağ üstteki `Clone or download` (Klonla ya da indir) düğmesine tıklayın ve verilen adresi kopyalayın. Bunu adresin sağındaki kopyalama düğmesine tıklayarak da yapabilirsiniz.
 

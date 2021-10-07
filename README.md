@@ -53,7 +53,7 @@ komutunu çalıştırarak `dal-adi` adında bir dal oluşturun ve bu dala geçi�
 git checkout -b gokhan-gurbetoglu
 ```
 
-**Not:** Daha sonra ana dalınıza, örneğin `main`, dönmek için `gir switch main` ya da `git checkout main` komutlarını kullanabilirsiniz.
+**Not:** Daha sonra ana dalınıza, örneğin `main`, dönmek için `git switch main` ya da `git checkout main` komutlarını kullanabilirsiniz.
 
 #### 1.2.4. Katkınızı Yapın (Commit)
 Artık hazırız! İlk katkımız için [KATKICILAR.md](KATKICILAR.md) dosyasının içine adınızı, soyadınızı, GitHub hesabınızı ve benzeri paylaşmak istediğiniz diğer bilgilerinizi dosyanın sonuna ekleyin ve kaydedin.

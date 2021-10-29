@@ -92,7 +92,7 @@ Artık GitHub üzerinde proje sayfanıza girdiğinizde sağ üstte yeşil renkli
 ## 3. İncelemeniz Onaylandı!
 Yukarıdaki tüm işlemleri yaptıysanız ben de çekme isteğinizi inceleyip bu projeye eklenmesi için onay vereceğim. Tebrikler! İlk katkınızı yaptınız!
 
-====
+----
 
 ### Not
 Hacktoberfest kapsamında bu projeye katkı sağlayabilirsiniz.

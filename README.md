@@ -13,7 +13,7 @@ Sağ üstteki `Fork` (Çatalla) düğmesine tıklayarak projenin kendinize ait b
 
 ![](/resimler/catalla-dugmesi.png)
 
-### 1.1. GitHub Web Sitesi Üzerinden
+### 1.1. GitHub İnternet Sitesi Üzerinden
 Proje sayfanızdayken [KATKICILAR.md](KATKICILAR.md) dosyasına tıkladıktan sonra dosya içeriğinizin sağ üst kısmındaki kalem düğmesine tıklayarak istediğiniz değişikliği yapabilir ve sonrasında bunu yeni bir dal (branch) oluşturacak şekilde kaydedebilirsiniz. Dal adı olarak `adiniz-soyadiniz` kullanın, örneğin `gokhan-gurbetoglu`.
 
 ### 1.2. Kendi Bilgisayarınızdan
